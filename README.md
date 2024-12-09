@@ -5,6 +5,7 @@
 <div align="center">
 
 회원가입 화면
+
 <img width="400" alt="스크린샷 2024-12-09 오후 4 21 26" src="https://github.com/user-attachments/assets/e5c7f65d-d8d7-4aec-9179-5ee9b0f03d20">
 
 로그인 화면
