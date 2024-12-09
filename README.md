@@ -24,6 +24,9 @@
 
 리더보드 화면
 
+<img width="379" alt="스크린샷 2024-12-09 오후 4 21 48" src="https://github.com/user-attachments/assets/eb6016f8-2afa-48bd-bd76-ba7f71d56fdf">
+
+
 ### 🚀 Java와 MySQL로 구현한 클래식 테트리스 게임 
 
 ## ✨ 주요 기능
